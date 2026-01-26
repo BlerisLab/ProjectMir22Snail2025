@@ -10,6 +10,6 @@ Statistical analysis: Python scripts for data analysis and statistical testing
 
 RNA-seq analysis pipeline: Code and workflows used to process and analyze RNA-seq data for this study
 
-**Purpose***
+**Purpose**
 
 The materials in this repository support the analyses and figures presented in the miR22–SNAIL project and are intended to ensure reproducibility and transparency of the computational work.
